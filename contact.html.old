@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>contact page</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Langar&family=Nerko+One&family=Ranchers&family=Ubuntu:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+
+  <div id="navbar">
+    <a href="index.html">Home</a>
+    <a href="aboutme.html">About Me</a>
+    <a href="myportfolio.html">My Portfolio</a>
+    <a href="contact.html">Contact</a>
+  </div>
+
+<div class="contactinfo">
+  <img src="scheung2small.jpg" alt="Samuel Cheung="width:100%">
+  <!-- <p class="title">A New York City College of Technology student</p> -->
+  <br>
+  <h2>Samuel Cheung | noone@nowhere.com</h2>
+  <p>New York City College of Technology</p>
+  <div style="margin: 24px 0;">
+    <a href="https://www.youtube.com/watch?v=VOib_Ibl1gM"><i class="fa fa-youtube"></i></a>
+    <a href="https://www.facebook.com/search/top?q=nyc%20department%20of%20education"><i class="fa fa-facebook"></i></a>
+  </div>
+  <!-- <p><button>Contact</button></p> -->
+</div>
+
+  <script src="navbar.v01.js"></script>
+
+</body>
+</html>
